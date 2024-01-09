@@ -21,3 +21,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+# git remote set-url origin https://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@github.com/monika7896/djangocrudoperations-crudoperationsdjango.git
